@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R-anveer
+- 👋 Hi, I’m Ranveer aka justice
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on Github and discord
